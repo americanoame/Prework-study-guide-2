@@ -33,7 +33,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ![alt text](assets/images/screenshot.png)
 
-## Credits
+## Credits <img width="402" alt="bowtie-cat" src="https://user-images.githubusercontent.com/77306236/201445998-e588f184-ef27-4ceb-a7a9-92036c1d6b68.png">
+
 
 List your collaborators, if any, with links to their GitHub profiles.
 
